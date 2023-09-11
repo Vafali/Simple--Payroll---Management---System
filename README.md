@@ -1,5 +1,3 @@
-# Simple--Payroll---Management---System
-
 # Payroll Management System
 
 The Payroll Management System is a Python application created using the Tkinter library. It is designed to manage employee payroll information, calculate monthly salaries, and generate payment references for employees. This README file provides an overview of the system's functionality and instructions for its usage.
@@ -54,6 +52,5 @@ The Payroll Management System is a Python application created using the Tkinter 
 7. Click the "Pay Reference" button to generate payment references, pay date, tax period, NI number, and NI code.
 
 8. The "Exit" button allows you to close the application.
-9. 
 
 Thank you for using the Payroll Management System!
